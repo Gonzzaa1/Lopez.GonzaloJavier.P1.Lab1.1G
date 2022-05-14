@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1652486779 source:c:\users\gonza\desktop\programacion 1\parcial_1\color.c
+	"color.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1652479185 source:c:\users\gonza\desktop\programacion 1\parcial_1\fecha.c
+
+1652489853 source:c:\users\gonza\desktop\programacion 1\parcial_1\servicio.c
+	"servicio.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1652486761 source:c:\users\gonza\desktop\programacion 1\parcial_1\tipo.c
+	"tipo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1652479298 source:c:\users\gonza\desktop\programacion 1\parcial_1\trabajo.c
+
+1652489329 source:c:\users\gonza\desktop\programacion 1\parcial_1\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicleta.h"
+	"tipo.h"
+	"color.h"
+
+1652489091 c:\users\gonza\desktop\programacion 1\parcial_1\bicicleta.h
+	"tipo.h"
+	"color.h"
+
+1652486761 c:\users\gonza\desktop\programacion 1\parcial_1\tipo.h
+
+1652486927 c:\users\gonza\desktop\programacion 1\parcial_1\color.h
+
+1652489821 source:c:\users\gonza\desktop\programacion 1\parcial_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bicicleta.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+
+1652490140 c:\users\gonza\desktop\programacion 1\parcial_1\servicio.h
+
